@@ -4,19 +4,19 @@ h1 {
 
 a:link {
   color: brown;
-  font-size: 20px;
+  font-size: 20pt;
 }
 
 a:visited {
   color: blue;
-  font-size: 20px;
+  font-size: 20pt;
 }
 
 a:hover {
   color: red;
-  font-size: 20px;
+  font-size: 20pt;
 }
 
 p {
-  font-size: 16px;
+  font-size: 16pt;
 }
